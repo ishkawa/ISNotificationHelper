@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'isnotify' target in the 'isnotify' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
